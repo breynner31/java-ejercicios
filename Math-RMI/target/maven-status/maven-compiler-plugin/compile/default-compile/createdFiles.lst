@@ -1,0 +1,3 @@
+com\mycompany\math\rmi\MathServer.class
+com\mycompany\math\rmi\MathClient.class
+com\mycompany\math\rmi\MathOperations.class
